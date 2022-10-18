@@ -1,0 +1,289 @@
+{
+  "31337": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "1",
+      "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 1
+    },
+    {
+      "tokenName": "tokenA",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081096692.png",
+      "chainId": "1",
+      "contractAddress": "0xdc64a140aa3e981100a9beca4e685f962f0cf6c9",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 2
+    },
+    {
+      "tokenName": "tokenB",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081096692.png",
+      "chainId": "1",
+      "contractAddress": "0x5fc8d32690cc91d4c39d9d3abcbd16989f875707",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 3
+    },
+    {
+      "tokenName": "tokenC",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081096692.png",
+      "chainId": "1",
+      "contractAddress": "0x40a42baf86fc821f972ad2ac878729063ceef403",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 4
+    },
+    {
+      "tokenName": "tokenD",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081096692.png",
+      "chainId": "1",
+      "contractAddress": "0xaca81583840b1bf2ddf6cde824ada250c1936b4d",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 5
+    }
+  ],
+  "50002": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "1",
+      "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": -1
+    },
+    {
+      "tokenName": "name",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082192020.png",
+      "chainId": "1",
+      "contractAddress": "0x2A74d90C07162453f65d84CB1DeA2Ef11A3ac52D",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 2
+    },
+    {
+      "tokenName": "OPPO",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082289082.png",
+      "chainId": "1",
+      "contractAddress": "0x3B55Be7939570c52aa772C978c4A62db23B22c17",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 3
+    }
+  ],
+  "60001": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "1",
+      "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": -1
+    },
+    {
+      "tokenName": "USDT",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082065202.png",
+      "chainId": "1",
+      "contractAddress": "0xaa9a587ca7686f18fb1474c085706af8986bca84",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 6
+    },
+    {
+      "tokenName": "FC",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082147425.jpeg",
+      "chainId": "1",
+      "contractAddress": "0xaacce8d776e5309e07A57E2d910e5F5F1fe15142",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 7
+    },
+    {
+      "tokenName": "TSS",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081230051.png",
+      "chainId": "1",
+      "contractAddress": "0xaB4BC469dBC98F2d2260f44A8f066cf8c7F206ec",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 8
+    },
+    {
+      "tokenName": "A",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082192020.png",
+      "chainId": "1",
+      "contractAddress": "0x71Ff1560d7D529b8e25244c44087E74Fec4b0e45",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 9
+    },
+    {
+      "tokenName": "B",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082289082.png",
+      "chainId": "1",
+      "contractAddress": "0xE778b21De62B4110Ddc6a638f43629Fc990A2f36",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 10
+    },
+    {
+      "tokenName": "C",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082269654.png",
+      "chainId": "1",
+      "contractAddress": "0x31bAA94227d2f9d0EEAa7C62b9FF0dcDd348bc40",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 11
+    },
+    {
+      "tokenName": "D",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082248497.png",
+      "chainId": "1",
+      "contractAddress": "0xB74C880Af3Ff0B0963c11c2C1653a4dc505EA6b1",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 12
+    },
+    {
+      "tokenName": "CPE",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082125495.jpeg",
+      "chainId": "1",
+      "contractAddress": "0x107fD654fF953198e2361836F7F2E4C96A54741a",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 13
+    },
+    {
+      "tokenName": "KING",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082228825.jpeg",
+      "chainId": "1",
+      "contractAddress": "0x4471b9CfD19D6869B22125a1004C928deD1762be",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 14
+    }
+  ],
+  "60002": [],
+  "60103": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "103",
+      "contractAddress": "0x09d2e7689b2bb4b181319aba83acb5c05784da9f",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": -1
+    },
+    {
+      "tokenName": "TINK",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081379138.png",
+      "chainId": "103",
+      "contractAddress": "0xdc8a0c77fd8134b33d8c22777d65318f2f69f606",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "987030000000000000000",
+      "index": -2
+    },{
+    "tokenName": "FHX",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081480187.png",
+    "chainId": "103",
+    "contractAddress": "0x09d2e7689b2bb4b181319aba83acb5c05784da9f",
+    "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+    "amount": "685350298789957689897",
+    "index": 1
+  }, {
+    "tokenName": "OIN",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081759079.png",
+    "chainId": "103",
+    "contractAddress": "0xc621aaf1c8304eb56044389df6faf20da5de3ea7",
+    "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+    "amount": "186114359274976288476",
+    "index": 2
+  }, {
+    "tokenName": "LIT",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081715688.png",
+    "chainId": "103",
+    "contractAddress": "0xec84add55130f031d4ae4a0eba8c083e2f5cceee",
+    "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+    "amount": "877000000000000000000",
+    "index": 3
+  }, {
+    "tokenName": "OPO",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081781869.png",
+    "chainId": "103",
+    "contractAddress": "0xa9518d9b89fccf4a7f10bb452a1fbe436886409f",
+    "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+    "amount": "150141640733917057236",
+    "index": 4
+  }, {
+    "tokenName": "TM",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081737724.png",
+    "chainId": "103",
+    "contractAddress": "0xbdfb10f7a39fed30e09a2754652d0cd2adb0cb76",
+    "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+    "amount": "990000000000000000000",
+    "index": 5
+  } ],
+  "70001": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "70001",
+      "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": -1
+    },
+    {
+      "tokenName": "TUSDT",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082065202.png",
+      "chainId": "70001",
+      "contractAddress": "0x47Ba4471046fC0442078CF1519924cb205F02c7a",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 6
+    },
+    {
+      "tokenName": "TSS",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081230051.png",
+      "chainId": "70001",
+      "contractAddress": "0x481Cf6c74b7b6aa1393abb6EaF8b530E5fa15f9f",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 7
+    }
+  ],
+  "70002": [],
+  "70103": [
+    {
+      "tokenName": "TKM",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
+      "chainId": "70103",
+      "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": -1
+    },
+    {
+      "tokenName": "AOC",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081879327.jpeg",
+      "chainId": "70103",
+      "contractAddress": "0xbb4a82cb62f0ec75c9dbe9857fae98d012efc889",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 7131
+    },
+    {
+      "tokenName": "XTX",
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082101680.png",
+      "chainId": "70103",
+      "contractAddress": "0x0bEA38b9d88A3aD5107Cde4E2CA625717740e557",
+      "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
+      "amount": "0",
+      "index": 7132
+    }
+  ]
+}
